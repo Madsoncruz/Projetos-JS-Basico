@@ -1,0 +1,22 @@
+{
+  "name": "Minha API para consumo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madsoncruz/Projetos-JS-Basico.git"
+  },
+  "author": "Madson Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madsoncruz/Projetos-JS-Basico/issues"
+  },
+  "homepage": "https://github.com/Madsoncruz/Projetos-JS-Basico#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

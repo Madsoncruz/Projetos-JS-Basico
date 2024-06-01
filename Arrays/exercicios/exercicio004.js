@@ -10,7 +10,7 @@ for (let index = 0; index < arrayLetra.length; index++) {
         console.log(`Encontrou a letra: ${acharLetra} no índice ${index}`);
 
     } else if (acharLetra !== arrayLetra[index] && arrayLetra.indexOf(acharLetra) === -1){
-        console.log(`Não encontrou a letra ${acharLetra}`);
+        console.log(`Não encontrou a letra "${acharLetra}" no array.`);
         break;
     }
         

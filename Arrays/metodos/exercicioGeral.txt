@@ -1,0 +1,17 @@
+1 - Criar os seguintes arrays:
+01 - Array produtos
+02 - Array fabricante
+03 - Array estoque
+
+2 - Faça uma interação que solicite ao usuário que informe os seguintes argumentos:
+01 - Informe o nome do produto (deve ser cadastrado no nínimo 6 );
+02 - Informe o fabricante (para cada produto cadastrato);
+
+
+3 - Crie uma função que crie um novo array e junte os produtos com seus respequitivos fabricantes.
+
+4 - Crie uma função (pesquisar produtos) que solicite ao usuário o produto que deseja Essa busca será realizada no array estoque.
+Se o produto não constar no estoque, informar: Produto indisponível.
+Se o produto existir no estoque, informar:Produto disponível.
+
+5 - Crie duas funções, uma chamada cadastrar produtos e outra cadastrar fabricantes.
